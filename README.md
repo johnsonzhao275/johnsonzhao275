@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Johnson Zhao
-- 👀 I am a Computer Engineer from Drexel University's Class of 2021
-- 🌱 I am currently looking for a full time entry level job in the field of Software Engineering
+- 👀 I am Senior Full Stack Developer with a focus on Front End React Development
 - 📫 You can reach me at my email at johnsonzhao275@gmail.com
 
 <!---
